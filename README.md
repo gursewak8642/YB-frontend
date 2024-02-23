@@ -15,7 +15,7 @@
 <p align="center">
 Combine Medusa's modules for your commerce backend with the newest Next.js 14 features for a performant storefront.</p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome!" />
   </a>
@@ -25,7 +25,7 @@ Combine Medusa's modules for your commerce backend with the newest Next.js 14 fe
   <a href="https://twitter.com/intent/follow?screen_name=medusajs">
     <img src="https://img.shields.io/twitter/follow/medusajs.svg?label=Follow%20@medusajs" alt="Follow @medusajs" />
   </a>
-</p>
+</p> -->
 
 ### Prerequisites
 
@@ -35,17 +35,17 @@ For a quick setup, run:
 ```shell
 npx create-medusa-app@latest
 ```
-
-Check out [create-medusa-app docs](https://docs.medusajs.com/create-medusa-app) for more details and troubleshooting.
+<!-- 
+Check out [create-medusa-app docs](https://docs.medusajs.com/create-medusa-app) for more details and troubleshooting. -->
 
 # Overview
 
 The Medusa Next.js Starter is built with:
-
+<!-- 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Medusa](https://medusajs.com/)
+- [Medusa](https://medusajs.com/) -->
 
 Features include:
 
